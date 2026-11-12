@@ -107,8 +107,3 @@ asset directory in `pubspec.yaml`. Each question bank is a JSON array with
 objects containing `question`, `answers`, and `correctAnswer` fields. When
 adding or editing questions, keep that shape and run `flutter test` before
 committing.
-
-## License
-
-No license file is currently included in this repository. Add a license before
-redistributing the application or its question content.
