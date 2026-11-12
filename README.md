@@ -1,9 +1,10 @@
-```
+
 This app was originally created in 2023 to help me and my friends
 prepare for an inland skipper exam (entry-level sailing license).
 The app we were previously using during the course was filled with bugs
 and UI/UX issues, thus inspiring me to create my own to replace it.
-```
+
+---
 
 # Busola App
 
